@@ -19,7 +19,8 @@ Of the following properties that a blockchain can have, which 2 are most importa
 # ANSWERS
 
 ## SECTION ONE
-1. a. **Scalability**: Handling a large number of transactions in real time can be difficult, leading to delays and increased costs
+1. a. **Scalability**: Handling a large number of transactions in real time can be difficult, leading to delays and increased costs.
+
    b. **Complexity**: Developing a decentralised game is more complex than a traditional one. It involves having in-depth knowledge on blockcahin technology, smart contracts, and the decentralized infrastructure.
 
 
