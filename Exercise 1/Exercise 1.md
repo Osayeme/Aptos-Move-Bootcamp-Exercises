@@ -23,6 +23,8 @@ Of the following properties that a blockchain can have, which 2 are most importa
 
    b. **Complexity**: Developing a decentralised game is more complex than a traditional one. It involves having in-depth knowledge on blockcahin technology, smart contracts, and the decentralized infrastructure.
 
+   c. **Cost of Transactions**: Many decentralized platforms require users to pay transaction fees (e.g., gas fees on Ethereum). This can impact the user experience and make the game less accessible.
+
 
 ## SECTION TWO
   **Security**: Since blockchains typically handle financial transactions, there is no room for error regarding the security of users' funds.
