@@ -28,6 +28,7 @@
      <img width="500" alt="APTOSFAUCET" src="https://github.com/user-attachments/assets/9c14000b-5a81-4c3b-8cf2-1a5550b807a9">
 
       View tokens in your WELLDONE wallet
+
       <img width="500" alt="WELLDONE wallet" src="https://github.com/user-attachments/assets/05b372d8-e1f5-483c-aef6-c2dd4168e9da">
 
    **Creating the hello-blockchain project in Remix IDE**
