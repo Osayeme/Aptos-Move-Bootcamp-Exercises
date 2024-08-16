@@ -52,7 +52,8 @@
      <img width="300" alt="image" src="https://github.com/user-attachments/assets/195859ff-7551-4e4a-9282-c40518ed45d0">
 
 
-   4. **Send some devnet APT to your collegues**
+ 4.  **Send some devnet APT to your collegues**
+
        <img width="300" alt="image" src="https://github.com/user-attachments/assets/e1325da2-6592-43fb-a2d4-b3bfbd27763a">
 
        **View transaction in block explorer**
