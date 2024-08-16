@@ -26,14 +26,15 @@ Install Move CLI
 
 ### STEP 2. Install Aptos CLI
 
-<img width="370" alt="Install Rust" src="https://github.com/user-attachments/assets/3639bb6d-5395-4576-ace0-04da05107637">
+<img width="370" alt="Install Aptos CLI" src="https://github.com/user-attachments/assets/3639bb6d-5395-4576-ace0-04da05107637">
 
 ### Done. Confirm your Installation has succeded by running the command "aptos info"
 
-<img width="317" alt="Install Rust" src="https://github.com/user-attachments/assets/9a155e9a-32ae-4614-b5c1-3a27bb2bd99">
+<img width="317" alt="Install Rust" src="https://github.com/user-attachments/assets/ed0bcf59-39d6-400f-b2ef-1476d909f910">
 
 
 
+![image](https://github.com/user-attachments/assets/ed0bcf59-39d6-400f-b2ef-1476d909f910)
 
 
 
