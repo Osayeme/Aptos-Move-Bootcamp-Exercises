@@ -15,7 +15,8 @@ Setup a wallet
 
 ### DONE.  
 <img width="317" alt="ALL DONE" src="https://github.com/user-attachments/assets/b90693c1-2bdb-4d7c-a2ab-17a51b71d94b">
-*** You now have Wallet for Making Interactions on the Aptos Blockchain
+
+You now have Wallet for Making Interactions on the Aptos Blockchain
 
 ## Task : 
 Install Move CLI
