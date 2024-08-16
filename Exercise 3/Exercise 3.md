@@ -10,6 +10,7 @@
 ## ANSWERS
 
 1. There are currently **145** active validators on the Aptos mainnet
+
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/bd2a6727-8a5d-4af3-813e-736bf266b75d">
 
 2. **Voting Power:** The degree of decentralization in voting power on the Aptos network largely depends on token distribution and the effectiveness of the delegation process. 
@@ -24,6 +25,7 @@
 3. **Set up the Welldone Browser Wallet:** please refer to Excercise 2
 
    **Fund Account with Devnet APT Tokens**
+
      Request APT tokens from [Aptos faucet](https://www.aptosfaucet.com/)
      <img width="500" alt="APTOSFAUCET" src="https://github.com/user-attachments/assets/9c14000b-5a81-4c3b-8cf2-1a5550b807a9">
 
